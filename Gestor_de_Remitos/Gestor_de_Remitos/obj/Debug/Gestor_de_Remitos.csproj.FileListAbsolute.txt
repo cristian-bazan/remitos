@@ -1,0 +1,12 @@
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\bin\Debug\Gestor_de_Remitos.exe.config
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\bin\Debug\Gestor_de_Remitos.exe
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\bin\Debug\Gestor_de_Remitos.pdb
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.Form1.resources
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.Vistas.Nuevo_Remito.resources
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.exe
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.pdb
+C:\Users\Cristian\source\repos\Gestor_de_Remitos\Gestor_de_Remitos\obj\Debug\Gestor_de_Remitos.Vistas.Form_mis_datos.resources
